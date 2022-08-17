@@ -14,4 +14,5 @@ class COLORS {
   // App Colors //
   static const Color DRAWER_BG_COLOR = Colors.lightGreen;
   static const Color APP_THEME_COLOR = Colors.pinkAccent;
+  // static const Color APP_THEME_COLOR = Colors.pinkAccent;
 }
